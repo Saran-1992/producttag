@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15 Pro",
+    "description": "Latest Apple smartphone with titanium design and A17 Pro chip"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Max 270",
+    "description": "Comfortable running shoes with Max Air cushioning unit"
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Wireless noise cancelling headphones with 30-hour battery life"
+  }
+]
