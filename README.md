@@ -42,19 +42,15 @@ pip install sentence-transformers
 ```bash
 python main.py --level 1
 ```
-Product name and description-il tag keyword irundha match pannurom (case-insensitive).
 
 ### Level 2 – TF-IDF + Cosine Similarity
 ```bash
 python main.py --level 2
 ```
-`scikit-learn` TF-IDF vectorizer use panni similarity-based tagging.
 
 ### Level 3 – Semantic Transformer
 ```bash
 python main.py --level 3
-```
-`sentence-transformers` pretrained model (`all-MiniLM-L6-v2`) use panni deep semantic matching.
 
 ---
 
